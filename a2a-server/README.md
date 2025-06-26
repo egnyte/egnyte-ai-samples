@@ -62,7 +62,7 @@ Our goal is to illustrate how the A2A protocol enables sophisticated, interactiv
 ```bash
    git clone https://github.com/a2aproject/a2a-samples.git
    cd a2a-samples
-````
+```
 
 ```bash
 cd demo/ui`
