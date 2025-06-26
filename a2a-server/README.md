@@ -65,13 +65,13 @@ Our goal is to illustrate how the A2A protocol enables sophisticated, interactiv
 ```
 
 ```bash
-cd demo/ui`
+  cd demo/ui
 ```
 ```bash
-uv sync          # or `npm install` if using the older Next.js UI
+  uv sync          # or `npm install` if using the older Next.js UI
 ```
 ```bash
-uv run main.py   # serves UI on http://localhost:3000
+  uv run main.py   # serves UI on http://localhost:3000
 ```
 Open http://localhost:3000 in your browser and register agent with http://localhost:10000
 
